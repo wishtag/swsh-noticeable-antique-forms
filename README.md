@@ -7,4 +7,5 @@ A simple texture mod for Pokémon Sword and Shield that makes Sinistea's and Pol
 Gallery
 =====
 ![Icons](img/icons.png?raw=true)
+
 ![Showcase](img/showcase.png?raw=true)
